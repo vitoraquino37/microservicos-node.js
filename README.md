@@ -20,4 +20,13 @@ Esse projeto possui alguns **Endpoints Base** que podem ser estendidos de forma 
 
 ##### Autenticação
 - POST /token
+
 - POST /token/validate
+
+  
+
+#### Links úteis
+
+https://node-postgres.com/features/connecting
+
+https://jwt.io/
